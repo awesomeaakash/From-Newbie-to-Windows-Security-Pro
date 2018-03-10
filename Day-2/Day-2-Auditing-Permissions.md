@@ -75,6 +75,7 @@ permissions too!
 20. Type the path: `C:\​` and press Enter​. Note listing of all permissions for folders and subfolders.
 
 - Important:
+
 There is NO one and only answer to the Part 2 of this challenge, that is why there is no “Submit”
 process. BUT if you are eager to share your results and thinking process to the Challenge Part 2,
 please share it on your favorite social channel, tag CQURE in your post and use #CQURE5DC
