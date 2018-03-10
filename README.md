@@ -1,0 +1,2 @@
+# cqureacademy
+Courses from cqureacademy 🤖
