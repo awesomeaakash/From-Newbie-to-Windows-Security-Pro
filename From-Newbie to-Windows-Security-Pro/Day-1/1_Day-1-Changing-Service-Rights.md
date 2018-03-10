@@ -125,6 +125,30 @@ C:\Program Files>
 	
 	
 	PS C:\Users\Administrator\Desktop\PowerShellAccessControl> Import-Module .\PowerShellAccessControl.psd1
+	PS C:\Users\Administrator\Desktop\PowerShellAccessControl> Get-Command -Module PowerShellAccessControl
+	
+	CommandType     Name                                               Version    Source
+	-----------     ----                                               -------    ------
+	Function        Add-AccessControlEntry                             3.0.135... PowerShellAccessControl
+	Function        ConvertFrom-Win32SecurityDescriptor                3.0.135... PowerShellAccessControl
+	Function        ConvertTo-Win32SecurityDescriptor                  3.0.135... PowerShellAccessControl
+	Function        Disable-AclInheritance                             3.0.135... PowerShellAccessControl
+	Function        Enable-AclInheritance                              3.0.135... PowerShellAccessControl
+	Function        Get-AccessControlEntry                             3.0.135... PowerShellAccessControl
+	Function        Get-ADObjectAceGuid                                3.0.135... PowerShellAccessControl
+	Function        Get-EffectiveAccess                                3.0.135... PowerShellAccessControl
+	Function        Get-MandatoryIntegrityLabel                        3.0.135... PowerShellAccessControl
+	Function        Get-SecurityDescriptor                             3.0.135... PowerShellAccessControl
+	Function        Get-Win32SecurityDescriptor                        3.0.135... PowerShellAccessControl
+	Function        New-AccessControlEntry                             3.0.135... PowerShellAccessControl
+	Function        New-AdaptedSecurityDescriptor                      3.0.135... PowerShellAccessControl
+	Function        Remove-AccessControlEntry                          3.0.135... PowerShellAccessControl
+	Function        Repair-AclCanonicalOrder                           3.0.135... PowerShellAccessControl
+	Function        Set-Owner                                          3.0.135... PowerShellAccessControl
+	Function        Set-SecurityDescriptor                             3.0.135... PowerShellAccessControl
+	
+	
+	PS C:\Users\Administrator\Desktop\PowerShellAccessControl>
 	PS C:\Users\Administrator\Desktop\PowerShellAccessControl> Get-Service -DisplayName StopMeIfYouCan | Get-AccessControlEntry
 	
 	
