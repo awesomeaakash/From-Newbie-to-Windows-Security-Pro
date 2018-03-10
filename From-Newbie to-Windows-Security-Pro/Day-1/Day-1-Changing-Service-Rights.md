@@ -1,4 +1,4 @@
-#### 1. [Day 1: Changing Service Rights](https://cqureacademy.com/challenge/day-1-changing-service-rights)
+#### [Day 1: Changing Service Rights](https://cqureacademy.com/challenge/day-1-changing-service-rights)
 
 ###### Questions
 
