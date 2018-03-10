@@ -54,6 +54,7 @@ C:\Program Files>
 ![](images/2.png)
 
 - Using Powershell
+	- [PowerShellAccessControl Module 3.0/4.0](https://gallery.technet.microsoft.com/scriptcenter/PowerShellAccessControl-d3be7b83)
 
 	```Powershell
 	PS C:\Users\Administrator> Start-Service -DisplayName StopMeIfYouCan
